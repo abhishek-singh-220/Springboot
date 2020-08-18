@@ -436,7 +436,7 @@ for much more information.
 
 == See Also
 
-The following guides may also be helpful:
+The following guides may also be helpful ...
 
 * https://spring.io/guides/gs/securing-web/[Securing a Web Application]
 * https://spring.io/guides/gs/serving-web-content/[Serving Web Content with Spring MVC]
